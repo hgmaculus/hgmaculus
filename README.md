@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**hgmaculus/hgmaculus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🚀 **Desarrollador Full Stack** apasionado por crear aplicaciones web eficientes, escalables y con excelente experiencia de usuario.
 
 ---
